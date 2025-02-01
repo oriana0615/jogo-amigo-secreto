@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>🎁Amigo Secreto - Sorteio Inteligente</h1>
-  <img src="./challenge-amigo-secreto_pt-main/assets/Amigo-SecretoP.png" width="80%" alt="Banner do Projeto">
+  <img src="./assets/Amigo-SecretoP.png" width="80%" alt="Banner do Projeto">
   <br>
   <em>Desenvolvido com mentoria dos cursos de Formação em Lógica de Programação da Alura.</em>
 </div>
