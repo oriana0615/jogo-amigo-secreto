@@ -131,7 +131,7 @@ const config = {
 ## 👨💻 Desenvolvedor
 <div align="center"> 
   <a href="https://github.com/oriana0615"> 
-    <img src="./challenge-amigo-secreto_pt-main/assets/MiFoto.png" width="100" style="border-radius:50%"> 
+    <img src="./assets/MiFoto.png" width="100" style="border-radius:50%"> 
     <br> <strong>Oriana Salazar</strong> 
   </a> 
   <br> 
